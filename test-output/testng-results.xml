@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9037" started-at="2021-06-14T21:13:03 PDT" finished-at="2021-06-14T21:13:12 PDT">
+    <groups>
+      <group name="Smoke">
+        <method signature="NewEventTest.newly()[pri:0, instance:com.vtiger.test.NewEventTest@1e7c7811]" name="newly" class="com.vtiger.test.NewEventTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Default test" duration-ms="9037" started-at="2021-06-14T21:13:03 PDT" finished-at="2021-06-14T21:13:12 PDT">
+      <class name="com.vtiger.test.NewEventTest">
+        <test-method status="PASS" signature="readersetting()[pri:0, instance:com.vtiger.test.NewEventTest@1e7c7811]" name="readersetting" is-config="true" duration-ms="6094" started-at="2021-06-14T21:13:03 PDT" finished-at="2021-06-14T21:13:09 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readersetting -->
+        <test-method status="PASS" signature="newly()[pri:0, instance:com.vtiger.test.NewEventTest@1e7c7811]" name="newly" duration-ms="1541" started-at="2021-06-14T21:13:09 PDT" finished-at="2021-06-14T21:13:11 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newly -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.vtiger.test.NewEventTest@1e7c7811]" name="closebrowser" is-config="true" duration-ms="1356" started-at="2021-06-14T21:13:11 PDT" finished-at="2021-06-14T21:13:12 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.vtiger.test.NewEventTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
